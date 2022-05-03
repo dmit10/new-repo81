@@ -1,0 +1,8 @@
+[map "778e472e-579c-3098-bcdc-623dbd6392ba"]
+	object = ee41acefe28d4bb195529c1af3a5baf3bcb7f260
+	path = GxIntegrationTest.repo-1
+	type = expand module
+[map "fcdc3d0b-2375-3c57-b343-016a4c69014c"]
+	object = ee41acefe28d4bb195529c1af3a5baf3bcb7f260
+	path = GxIntegrationTest.repo-2
+	type = expand module
